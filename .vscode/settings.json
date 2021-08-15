@@ -1,0 +1,22 @@
+{
+    "editor.detectIndentation": false
+    "workbench.colorTheme": "Learn with Sumit - Peace of the eye"
+    "window.zoomLevel": 2,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "400",
+    "editor.fontSize": 14,
+    "editor.codeLensFontFamily": "\"cascadia code\",",
+    "editor.codeLensFontSize": 14,
+    "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'"
+    "editor.inlayHints.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.inlayHints.fontSize": 14,
+    "editor.mouseWheelZoom": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+}
